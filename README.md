@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/Tailspin666666/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/dtrac.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin666666/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
+
 # To build and run
 
 ```bash
